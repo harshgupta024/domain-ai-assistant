@@ -195,23 +195,4 @@ http://localhost:8501
 
 ## 👤 Author
 
-**Harish Gupta**  
-AI / ML Intern Candidate
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
----
-
-## 📧 Contact
-
-For any queries or suggestions, please reach out via email or create an issue in the repository.
+**Harish Gupta**
