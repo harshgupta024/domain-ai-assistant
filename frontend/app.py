@@ -34,7 +34,7 @@ st.sidebar.info("⚠️ Answers are generated only from the dataset.")
 st.title("🤖 Domain-Specific AI Knowledge Assistant")
 st.caption("Powered by Vector Search & Retrieval Augmented Generation (RAG)")
 
-API_URL = "http://127.0.0.1:8000/chat"
+API_URL = "https://domain-ai-assistant-backend.onrender.com/chat"
 
 # Initialize chat history
 if "messages" not in st.session_state:
